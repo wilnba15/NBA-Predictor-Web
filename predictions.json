@@ -1,0 +1,18 @@
+{
+    "predictions": [
+        {
+            "team": "Lakers",
+            "player": "LeBron James",
+            "performance": "25 PPG, 7 APG, 8 RPG",
+            "match_prediction": "Win",
+            "opponent": "Warriors"
+        },
+        {
+            "team": "Warriors",
+            "player": "Stephen Curry",
+            "performance": "30 PPG, 5 APG, 5 RPG",
+            "match_prediction": "Loss",
+            "opponent": "Lakers"
+        }
+    ]
+}
