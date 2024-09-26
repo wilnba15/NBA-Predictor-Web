@@ -1,0 +1,56 @@
+/* Estilos Generales */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Fondo claro */
+    color: #333; /* Texto en color oscuro */
+}
+
+/* Contenedor del Blog */
+.blog-container {
+    width: 80%;
+    margin: 20px auto;
+    background: #fff; /* Fondo blanco para el contenedor */
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo de las Entradas del Blog */
+.blog-post {
+    margin-bottom: 30px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+}
+
+.blog-post h2 {
+    font-size: 24px;
+    color: #007BFF; /* Color del título */
+}
+
+.blog-post p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #555;
+}
+
+.blog-post a {
+    color: #007BFF; /* Color de los enlaces */
+    text-decoration: none;
+}
+
+.blog-post a:hover {
+    text-decoration: underline;
+}
+
+/* Estilo del Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #333; /* Fondo oscuro */
+    color: #fff; /* Texto blanco */
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
